@@ -1,0 +1,9 @@
+POST http://localhost:4000/add-new-post 
+Content-Type: application/json
+
+
+{
+                "Student_name": "Mehul", 
+                "registration_number": 45,
+                "Marks_Outof50": 30
+}
